@@ -3,6 +3,6 @@
 ```spl
 
 | rest /servicesNS/-/-/saved/searches | search alert_type = "always" 
-|  stats count by title
+|  stats count by title,qualifiedSearch
 
 ```
