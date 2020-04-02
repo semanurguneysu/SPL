@@ -1,4 +1,4 @@
-##List of Correlation Searches
+## List of Correlation Searches
 ```spl
 
 | rest /servicesNS/-/-/saved/searches splunk_server=local 
